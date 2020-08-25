@@ -1,10 +1,12 @@
 import React from "react";
+import Navbar from 'react-bootstrap/Navbar';
+import "./style.css";
 
 function Footer () {
     return (
-        <footer className="footer">
+        <Navbar className="footer text-center" fixed="bottom" bg="dark" variant="dark">
             <span>Juan M. Osorio</span>
-        </footer>
+        </Navbar>
     );
 }
 

@@ -6,7 +6,8 @@ import Container from "./components/Container";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
-import './App.css';
+
+
 
 function App() {
   return (
