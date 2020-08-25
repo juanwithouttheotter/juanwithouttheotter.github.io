@@ -1,15 +1,17 @@
 import React from 'react';
+import Image from "react-bootstrap/Image";
 import Container from "../components/Container";
 import Col from "../components/Col";
 import Row from '../components/Row';
+import PhotoME from "../assets/images/profile-photo-me.jpg";
 
 function About() {
     return (
-        <Container fluid="true">
-            <Row fluid="true">
-                <Col size="md-4">
-                    <h2>About Juan</h2>
-
+        <Container fluid="true"  addclass=" my-4" >
+            <Row>
+                <Col size="md-3">
+                    <h2 className="text-center">About Juan</h2>
+                    <Image src={PhotoME} rounded thumbnail/>
                 </Col>
                 <Col size="md-8">
                     <p>
