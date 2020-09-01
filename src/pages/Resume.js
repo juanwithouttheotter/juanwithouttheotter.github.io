@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from "react-router-dom";
 import Container from '../components/Container';
 import Col from '../components/Col';
 import Row from '../components/Row';
@@ -7,6 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDownload, faDna } from '@fortawesome/free-solid-svg-icons';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 // import { } from '@fortawesome/free-solid-svg-icons';
+import PDF from '../assets/resume-osorio-general.pdf';
 
 
 function Resume() {
@@ -23,7 +23,7 @@ function Resume() {
             <div className="my-5"></div>
             <Row>    
                 <Col size="md">
-                    <a href="">
+                    <a href={PDF} download target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faDownload} size="8x" />
                     </a>
                 </Col>
