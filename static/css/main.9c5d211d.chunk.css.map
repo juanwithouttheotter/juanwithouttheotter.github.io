@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css","App.css"],"names":[],"mappings":"AAAA,KACI,UAAY,CACZ,iBAAkB,CAClB,WACJ,CAJA,MACI,gBACJ,CCFA,0CACI,wBACJ","file":"main.9c5d211d.chunk.css","sourcesContent":["Image {\r\n    max-height: 120px;\r\n}","::-webkit-validation-bubble-arrow-clipper {\r\n    background-color: rgb(67, 107, 133);\r\n}"]}
