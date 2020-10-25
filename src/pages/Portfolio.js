@@ -21,7 +21,7 @@ class Portfolio extends React.Component {
         })
         return (
             <Container>
-                <Row>
+                <Row style={{marginBottom: "2rem"}}>
                 {cards}
                 </Row>
             </Container>
