@@ -1,31 +1,43 @@
 [
     {
         "urlTag": "Pass-Gen",
+        "projectTitle": "Pass Gen",
+        "projectDesc": "This application generates a random password.",
         "imgRoute": "pass-gen-image",
         "altTag": "Password generator website screenshot"
     },
     {
         "urlTag": "weather-today-or-tomorrow",
+        "projectTitle": "Weather Today or Tomorrow",
+        "projectDesc": "Application that gives current weather and five day forcast for a city.",
         "imgRoute": "weather-today-or-tomorrow-image",
         "altTag": "weather app screenshot"
     },
     {
         "urlTag": "Movie-Weather-Solutions",
+        "projectTitle": "Movie Weather Solutions",
+        "projectDesc": "This application gives user a random movie base on the user's current weather.",
         "imgRoute": "Movie-weather-solutions-image",
         "altTag": "Movie weather app screenshot"
     },
     {
         "urlTag": "Marvelous-Markdown-Generator",
+        "projectTitle": "Markdown Generator",
+        "projectDesc": "Command line application that generates a Readme.MD file from a series of prompts.",
         "imgRoute": "Marvelous-Markdown-Generator-image",
         "altTag": "Markdown generator app screenshot"
     },
     {
         "urlTag": "morndusk-planner",
+        "projectTitle": "MornDusk Planner",
+        "projectDesc": "Application that can be used to organize your daily schedule.",
         "imgRoute": "morndusk-planner-image",
         "altTag": "Day planner website screenshot"
     },
     {
         "urlTag": "celeb-o-knowledge",
+        "projectTitle": "Celeb-O-Knowledge",
+        "projectDesc": "Quiz on basic JavaScript.",
         "imgRoute": "celeb-o-knowledge-image",
         "altTag": "Celebration of knowledge app screenshot"
     }

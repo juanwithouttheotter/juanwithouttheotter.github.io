@@ -10,7 +10,8 @@ class Portfolio extends React.Component {
             return (
                 <PortfolioCard
                     key={i}
-                    title={repoObj.urlTag}
+                    title={repoObj.projectTitle}
+                    description={repoObj.projectDesc}
                     github={repoObj.urlTag}
                     link={repoObj.urlTag}
                     image={repoObj.imgRoute}
