@@ -1,20 +1,29 @@
 import React from 'react';
 import PortfolioCard from "../components/PortfolioCard";
-import PhotoME from "../assets/images/profile-photo-me.jpg";
-
+import appRepos from "../assets/data/appRepos.json"
+import { Container, Row } from 'react-bootstrap';
 
 class Portfolio extends React.Component {
+
     render() {
-        return (
-            <div>
+        let cards = appRepos.length > 0 && appRepos.map((repoObj, i) => {
+            return (
                 <PortfolioCard
-                    title="test"
-                    github="test@github.com"
-                    link="linktest"
-                    image={PhotoME}
+                    key={i}
+                    title={repoObj.urlTag}
+                    github={repoObj.urlTag}
+                    link={repoObj.urlTag}
+                    image={repoObj.imgRoute}
+                    altTag={repoObj.altTag}
                 />
-                portfolio
-            </div>
+            )
+        })
+        return (
+            <Container>
+                <Row>
+                {cards}
+                </Row>
+            </Container>
         )
     }
 }
