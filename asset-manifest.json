@@ -1,27 +1,34 @@
 {
   "files": {
     "main.css": "/re-active-portfolio/static/css/main.9c5d211d.chunk.css",
-    "main.js": "/re-active-portfolio/static/js/main.52389f34.chunk.js",
-    "main.js.map": "/re-active-portfolio/static/js/main.52389f34.chunk.js.map",
+    "main.js": "/re-active-portfolio/static/js/main.b033402c.chunk.js",
+    "main.js.map": "/re-active-portfolio/static/js/main.b033402c.chunk.js.map",
     "runtime-main.js": "/re-active-portfolio/static/js/runtime-main.2efad38d.js",
     "runtime-main.js.map": "/re-active-portfolio/static/js/runtime-main.2efad38d.js.map",
     "static/css/2.11829350.chunk.css": "/re-active-portfolio/static/css/2.11829350.chunk.css",
-    "static/js/2.654c7d84.chunk.js": "/re-active-portfolio/static/js/2.654c7d84.chunk.js",
-    "static/js/2.654c7d84.chunk.js.map": "/re-active-portfolio/static/js/2.654c7d84.chunk.js.map",
+    "static/js/2.8bbe8ed8.chunk.js": "/re-active-portfolio/static/js/2.8bbe8ed8.chunk.js",
+    "static/js/2.8bbe8ed8.chunk.js.map": "/re-active-portfolio/static/js/2.8bbe8ed8.chunk.js.map",
     "index.html": "/re-active-portfolio/index.html",
-    "precache-manifest.cdbbe1d4bb08057f952cb56a2cf9bd2a.js": "/re-active-portfolio/precache-manifest.cdbbe1d4bb08057f952cb56a2cf9bd2a.js",
+    "precache-manifest.d5aae3870fc1ed712ab3e11fdabca2e4.js": "/re-active-portfolio/precache-manifest.d5aae3870fc1ed712ab3e11fdabca2e4.js",
     "service-worker.js": "/re-active-portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/re-active-portfolio/static/css/2.11829350.chunk.css.map",
     "static/css/main.9c5d211d.chunk.css.map": "/re-active-portfolio/static/css/main.9c5d211d.chunk.css.map",
-    "static/js/2.654c7d84.chunk.js.LICENSE.txt": "/re-active-portfolio/static/js/2.654c7d84.chunk.js.LICENSE.txt",
+    "static/js/2.8bbe8ed8.chunk.js.LICENSE.txt": "/re-active-portfolio/static/js/2.8bbe8ed8.chunk.js.LICENSE.txt",
+    "static/media/Marvelous-Markdown-Generator-image.png": "/re-active-portfolio/static/media/Marvelous-Markdown-Generator-image.1c52c1c3.png",
+    "static/media/Movie-weather-solutions-image.png": "/re-active-portfolio/static/media/Movie-weather-solutions-image.0d2e60ea.png",
+    "static/media/Place-holder.png": "/re-active-portfolio/static/media/Place-holder.edadd8ec.png",
+    "static/media/celeb-o-knowledge-image.png": "/re-active-portfolio/static/media/celeb-o-knowledge-image.ee8a885c.png",
+    "static/media/morndusk-planner-image.png": "/re-active-portfolio/static/media/morndusk-planner-image.24ff80c6.png",
+    "static/media/pass-gen-image.png": "/re-active-portfolio/static/media/pass-gen-image.dcd99a4f.png",
     "static/media/profile-photo-me.jpg": "/re-active-portfolio/static/media/profile-photo-me.37bee35e.jpg",
-    "static/media/resume-osorio-general.pdf": "/re-active-portfolio/static/media/resume-osorio-general.cd6fd2a8.pdf"
+    "static/media/resume-osorio-general.pdf": "/re-active-portfolio/static/media/resume-osorio-general.cd6fd2a8.pdf",
+    "static/media/weather-today-or-tomorrow-image.png": "/re-active-portfolio/static/media/weather-today-or-tomorrow-image.8d4e072a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2efad38d.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.654c7d84.chunk.js",
+    "static/js/2.8bbe8ed8.chunk.js",
     "static/css/main.9c5d211d.chunk.css",
-    "static/js/main.52389f34.chunk.js"
+    "static/js/main.b033402c.chunk.js"
   ]
 }
