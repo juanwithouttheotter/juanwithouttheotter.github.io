@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b427cbc888094771bdc39bf9351a0ab7",
+    "revision": "69adcca1354bf1f180651e8ad37d42b3",
     "url": "/index.html"
   },
   {
-    "revision": "373f6e97fdcfbb012ff5",
+    "revision": "a7b7dc837ad0fd27c51d",
     "url": "/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "468a25589a5ab95decbb",
+    "revision": "cc429c5b9e3029d48094",
     "url": "/static/css/main.9c5d211d.chunk.css"
   },
   {
-    "revision": "373f6e97fdcfbb012ff5",
-    "url": "/static/js/2.8bbe8ed8.chunk.js"
+    "revision": "a7b7dc837ad0fd27c51d",
+    "url": "/static/js/2.0872d05c.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.8bbe8ed8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0872d05c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "468a25589a5ab95decbb",
-    "url": "/static/js/main.3450ee53.chunk.js"
+    "revision": "cc429c5b9e3029d48094",
+    "url": "/static/js/main.614d6f39.chunk.js"
   },
   {
     "revision": "0e2ec18f7dd4deea235d",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0d2e60eab96e84d375250f754fe01ced",
     "url": "/static/media/Movie-weather-solutions-image.0d2e60ea.png"
+  },
+  {
+    "revision": "0c7cf1897f9fd9787dbaec07ba6d076c",
+    "url": "/static/media/Osorio-Juan-Resume.0c7cf189.pdf"
   },
   {
     "revision": "edadd8ecb4372c344359498dd324104c",
@@ -54,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37bee35e6fbe68209c4a036991d78af9",
     "url": "/static/media/profile-photo-me.37bee35e.jpg"
-  },
-  {
-    "revision": "cd6fd2a8c609a6095e57abd8f105e5b9",
-    "url": "/static/media/resume-osorio-general.cd6fd2a8.pdf"
   },
   {
     "revision": "8d4e072a3f0acf5a88f3bebb3fe81724",
