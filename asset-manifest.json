@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.9c5d211d.chunk.css",
-    "main.js": "/static/js/main.614d6f39.chunk.js",
-    "main.js.map": "/static/js/main.614d6f39.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.82ba793a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.82ba793a.js.map",
-    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.0872d05c.chunk.js": "/static/js/2.0872d05c.chunk.js",
-    "static/js/2.0872d05c.chunk.js.map": "/static/js/2.0872d05c.chunk.js.map",
+    "main.js": "/static/js/main.e34c98a7.chunk.js",
+    "main.js.map": "/static/js/main.e34c98a7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35d41c2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35d41c2e.js.map",
+    "static/css/2.80f479d8.chunk.css": "/static/css/2.80f479d8.chunk.css",
+    "static/js/2.5d661eac.chunk.js": "/static/js/2.5d661eac.chunk.js",
+    "static/js/2.5d661eac.chunk.js.map": "/static/js/2.5d661eac.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3017ce4e1a9e8790588930518ba234b6.js": "/precache-manifest.3017ce4e1a9e8790588930518ba234b6.js",
+    "precache-manifest.cb4b69ff0d1365e397d708534c556c6c.js": "/precache-manifest.cb4b69ff0d1365e397d708534c556c6c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/2.80f479d8.chunk.css.map": "/static/css/2.80f479d8.chunk.css.map",
     "static/css/main.9c5d211d.chunk.css.map": "/static/css/main.9c5d211d.chunk.css.map",
-    "static/js/2.0872d05c.chunk.js.LICENSE.txt": "/static/js/2.0872d05c.chunk.js.LICENSE.txt",
+    "static/js/2.5d661eac.chunk.js.LICENSE.txt": "/static/js/2.5d661eac.chunk.js.LICENSE.txt",
     "static/media/Marvelous-Markdown-Generator-image.png": "/static/media/Marvelous-Markdown-Generator-image.1c52c1c3.png",
     "static/media/Movie-weather-solutions-image.png": "/static/media/Movie-weather-solutions-image.0d2e60ea.png",
     "static/media/Osorio-Juan-Resume.pdf": "/static/media/Osorio-Juan-Resume.0c7cf189.pdf",
@@ -25,10 +25,10 @@
     "static/media/weather-today-or-tomorrow-image.png": "/static/media/weather-today-or-tomorrow-image.8d4e072a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.82ba793a.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.0872d05c.chunk.js",
+    "static/js/runtime-main.35d41c2e.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.5d661eac.chunk.js",
     "static/css/main.9c5d211d.chunk.css",
-    "static/js/main.614d6f39.chunk.js"
+    "static/js/main.e34c98a7.chunk.js"
   ]
 }
